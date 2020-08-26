@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">exercise_sharedpref</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="share_preference_name">com.enigma.shared.preference</string>
+    <string name="username_key">USERNAME</string>
+    <string name="default_value">Default</string>
+
+
+</resources>
